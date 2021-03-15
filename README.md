@@ -1,4 +1,4 @@
-# glassHouse
+# glassHome
 
 Check it out! - https://glasshome.herokuapp.com/#/
  
